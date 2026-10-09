@@ -67,7 +67,7 @@ g++ main.cpp -o seu_corridor -framework GLUT -framework OpenGL -Wno-deprecated
 | Sanzida Islam Shormi | 2023100000447 | Environment |
 | Razia Binte Alam Raya | 2023100000110 | Zombie and shooter movement |
 | Sanzida Islam Shormi & Razia Binte Alam Raya | 2023100000447 & 2023100000110 | Common and main |
-| Mst. Sumaiya Islam Zannat | _ID_ | Merging all parts and final integration |
+| Mst. Sumaiya Islam Zannat | 2023200000244 | Merging all parts and final integration |
 
 ## Course Info
 
